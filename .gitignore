@@ -10,7 +10,7 @@ secrets.yml
 
 #Dependencies and Caches
 node_modules/
-__pycache__/
+__pycache__/ 
 
 #Generated images or big files (if any)
 *.log
