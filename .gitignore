@@ -1,0 +1,16 @@
+#OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+
+#Secrets / Keys
+*.pem
+*.env
+secrets.yml
+
+#Dependencies and Caches
+node_modules/
+__pycache__/
+
+#Generated images or big files (if any)
+*.log
