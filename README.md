@@ -4,12 +4,14 @@ A public, structured log of daily progress toward becoming job-ready in Cloud Co
 (Linux → Networking → AWS → Docker → Kubernetes → CI/CD).
 
 ## 📁 Repository structure
-- `linux/`
-- `Projects/` — Hands-on Cloud & DevOps projects
-- `Weekly-Summaries/` — Week-by-week progress
-- `images/` — Diagrams and screenshots
-- `resume/` — Polished resume
-- `README.md` — Repository overview
+- `linux/` 
+   - `basic-commands`
+   - `utility-commands`
+- `projects/`
+- `weekly-summary/`
+- `images/`
+- `resume/`
+- `README.md`
 
 ## 🎯 Goals
 - Build strong foundational skills for Cloud & DevOps roles
