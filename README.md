@@ -6,6 +6,8 @@ A public, structured log of daily progress toward becoming job-ready in Cloud Co
 ## 📁 Repository structure
 - `linux/` 
    - `basic-commands`
+   - `compress-decompress.md`
+   - `package-and-service-management.md`
    - `utility-commands`
 - `projects/`
 - `weekly-summary/`
