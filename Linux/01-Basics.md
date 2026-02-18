@@ -10,5 +10,5 @@ Linux is a kernel which manages hardware, memory, process and system calls.
 - `touch` : create file
 - `rm` : remove file
 - `mkdir` : make directory
-- `rmdir` : remove directory
+- `rmdir` : remove empty directory
 - `man` : manual
