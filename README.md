@@ -10,4 +10,5 @@ A structured log for my progress in DevOps & Cloud Computing
    - `04-Process-System_Monitoring`
    - `05-Services-systemd`
    - `06-Logs-Troubleshooting`
+   - `07-grep-awk-sed`
 - `README.md`
