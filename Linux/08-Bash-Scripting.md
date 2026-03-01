@@ -40,4 +40,4 @@ Every commands returns a number after execution. '0' means Success, 'non-zero' m
 Linux uses permission bits. Without execute permission, OS blocks execution.
 - `script.sh`          : file created
 - `chmod +x script.sh` : makes files executable
-- `./script.sh`        : runs the file
+- `./script.sh`        : runs the file 
