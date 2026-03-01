@@ -17,22 +17,19 @@ Regex is a pattern language for text used inside grep, awk sed. It makes searchi
 
 ## Commands
 - `grep` : used to search for specific words, pattern, phrases inside text files
-    - `flags` :
-        `grep -i` "error" file      # ignore case
-        `grep -n` "error" file      # show line numbers
-        `grep -v` "error" file      # show lines NOT matching
-        `grep -r` "text" folder/    # recursive search
+    - `grep -i` "error" file    # ignore case
+    - `grep -n` "error" file    # show line numbers
+    - `grep -v` "error" file    # show lines NOT matching
+    - `grep -r` "text" folder/  # recursive search
 
 - `awk` : column-based text processor for structured logs
-    - `flags` : 
-        `{print $1}`
-        `{print $1, $3}`
-        `-F` to change delimiter
-        `eg` : awk -F ":" '{print $1}' /etc/passwd
+    - `{print $1}`
+    - `{print $1, $3}`
+    - `-F` to change delimiter
+    - `eg` : awk -F ":" '{print $1}' /etc/passwd
 
 - `sed` : steam editor, it modify text
-    `flags` :
-        `s/old/new/` = substitute
-        `g` = global
-        `-i` = modify file directly
-        `eg` : sed 's/text1/text2/g'
+    - `s/old/new/` = substitute
+    - `g` = global
+    - `-i` = modify file directly
+    - `eg` : sed 's/text1/text2/g'
